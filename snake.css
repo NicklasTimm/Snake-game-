@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(cool.jpg);
+  }
+  canvas {
+    
+    width: 80vmin;
+    position: absolute;
+    top: 75px;
+    right: 440px;
+    background-image:url(donald.jpg);
+    background-position: center;
+    
+  }
+  .score {
+    position: absolute;
+    top: 300px;
+    right: 150px;
+    font-family: syne, tacttile;
+    font-size: 70px;
+    color: white;
+    background: transparent;
+  }
+  .play {
+    position: absolute;
+    top: 700px;
+    right: 700px;
+    font-size: 40px;
+    color :white;
+    background: turquoise;
+    border-radius: 30px;
+  }
